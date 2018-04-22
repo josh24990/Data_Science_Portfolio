@@ -2,7 +2,7 @@
 
 This repository contains a portfolio of Data Science projects completed by me (Josh Reed).
 
-This portfolio aims to demonstrate the breadth and depth of my data science skillset, including both technical ability and situational judgement. I intend to upload more projects as and when I complete them, as part of my self-learning journey within data analytics and science.
+This portfolio aims to demonstrate the breadth and depth of my data science skillset. I intend to upload more projects as and when I complete them, as part of my self-learning journey within data analytics and science.
 
 For now, please feel free to view the contents of my first Kaggle competition, presented in a Jupyter notebook, where I sought to predict survival following the 1912 Titanic disaster. This is an end-to-end machine learning project comprising aspects of both feature engineering and selection and optimisation of a best fitting classification model. 
 
